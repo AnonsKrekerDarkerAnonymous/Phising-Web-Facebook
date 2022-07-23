@@ -3,7 +3,7 @@ Sta je to phising?
 Phising je ribolov, kada zamahnes svojim kreiranim webom... Uzimate informacije. Npr. IP, NAME, EMAIL, PHONE, PASSWORD...
 Nemora biti samo fb u pitanju. Takoder nemora biti web, moze i softwer, appl... 
 ```
-ssh hostUser Or ip dinamic Server@ip -p 22 & 
+ssh hostUser Or ip dynamic Server@ip -p 22 & 
 cd desktop & 
 winget install --id Git.Git -e --source winget & 
 Start git & 
