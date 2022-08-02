@@ -8,12 +8,12 @@ graph TD;
     Server-->Ssh;
     Host-->Ssh;
     Ssh-->Comand;
-    Comand-->Code project;
+    Comand-->CodeProject;
 ```
 ```mermaid
 graph TD;
- Comand-->Code project;
-  Code project-->Attack;
+ Comand-->CodePproject;
+  CodePproject-->Attack;
 ```
 windos
 -----
