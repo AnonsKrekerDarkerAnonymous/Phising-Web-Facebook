@@ -6,10 +6,10 @@ Nemora biti samo fb u pitanju. Takoder nemora biti web, moze i softwer, appl...
 ```mermaid
 graph TD;
     A-->Server;
-    A-->Host;
-    B-->Ssh;
-    C-->Web Code;
-    D-->Attack;
+    b-->Host;
+    c-->SshClient;
+    d-->Web Code;
+    e-->Attack;
 ```
 
 windos
