@@ -5,10 +5,10 @@ Nemora biti samo fb u pitanju. Takoder nemora biti web, moze i softwer, appl...
 
 ```mermaid
 graph TD;
-    A-->Server;
-    b-->Host;
-    c-->SshClient;
-    d-->Web Code;
+    A-->S;
+    b-->H;
+    c-->S;
+    d-->W;
 ```
 
 windos
