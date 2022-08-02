@@ -11,11 +11,6 @@ graph TD;
     Comand-->CodeProject;
     CodePproject-->Attack;
 ```
-```mermaid
-graph TD;
- Comand-->CodePproject;
-  CodePproject-->Attack;
-```
 windos
 -----
 ```
