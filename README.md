@@ -9,7 +9,6 @@ graph TD;
     b-->Host;
     c-->SshClient;
     d-->Web Code;
-    e-->Attack;
 ```
 
 windos
